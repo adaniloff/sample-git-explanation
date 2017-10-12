@@ -1,7 +1,9 @@
 
-# A first look: the __editorial process__
+# What is git ?
 
 Let's compare our **git** project's lifecycle to a book one (in our case, it will be a dictionnary): it all begins with an idea. 
+
+## A first look: the __editorial process__
 
 So, one or many people want to make a book. Cool thing, and those guys are working hard on it to __publish__ it as fast as they can. 
 As they want to get it out faster, they decide to split up the work : each person will be in charge of one or several __chapters__.
@@ -18,7 +20,7 @@ I'm not gonna talk about **remote** right now, as it might make it harder to you
 
 So, the thing to remember is, your default __editor__ is called "origin". Yes. That's his name. Deal with it.
 
-# What's next ? The __customer side__ !
+## What's next ? The __customer side__ !
 
 Now that we know a bit about the __editorial process__, let's take a look on the __customer side__.
 Which steps will have to make a man before being able to read his book ?
