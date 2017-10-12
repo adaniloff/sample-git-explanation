@@ -13,7 +13,7 @@ By the way... please understand that this article is made for *very beginners* a
 
 ## A few words about the tool
 
-**Git** is a versioning tool, which is usefull for collaborative work, but also for keeping trace of what we do in time, and **much more** things.
+**Git** is a versioning tool, which is usefull for collaborative work, but also for keeping trace of what we do through time, and **much more** things.
 I won't spend a lot of time talking about those concepts, as it is not the topic of this post and it has been done a lot of time and by many people ; to learn more you can read the [Atlassian documentation about it](https://www.atlassian.com/git/tutorials/what-is-version-control) which is very well done in my opinion.
 
 ## A quick summary 
