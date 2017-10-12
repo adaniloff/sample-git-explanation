@@ -20,8 +20,8 @@ I won't spend a lot of time talking about those concepts, as it is not the topic
 
 1. [A quick explanation about common things](/doc/1-lifecycles.md)
 2. [Most useful commands](/doc/2-commands.md)
-3. [Howto: use a git project](/doc/3-todo.md)
-4. [Howto: contribute to a git project](/doc/4-todo.md)
+3. [Howto: use a git project](/doc/3-user-guide.md)
+4. [Howto: contribute to a git project](/doc/4-contributor-guide.md)
 
     
 [Next page >](/doc/1-lifecycles.md)
