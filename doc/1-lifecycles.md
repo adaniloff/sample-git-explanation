@@ -5,7 +5,7 @@ Let's compare our **git** project's lifecycle to a book one (in our case, it wil
 
 So, one or many people want to make a book. Cool thing, and those guys are working hard on it to __publish__ it as fast as they can. 
 As they want to get it out faster, they decide to split up the work : each person will be in charge of one or several __chapters__.
-Let's say I'm part of the thing, and the chapters A, B, C and D are *under my commandment*. I'm a very focussed guy and I plan to work as the following: I'll do A, then B, then C, and finally D. For each of those __chapters__, it's gonna take some time; also I want to be sure to be able to retrieve my work at any time, so I'm gonna make __versions__ of those, that I will save.
+Let's say I'm part of the thing, and the chapters A, B, C and D are *under my commandment*. I'm a very focused guy and I plan to work as the following: I'll do A, then B, then C, and finally D. For each of those __chapters__, it's gonna take some time; also I want to be sure to be able to retrieve my work at any time, so I'm gonna make __versions__ of those, that I will save.
 The final product will be the results of all of our __chapters__, which we will merge at a given time before our __publishing__.
 
 Basically, I just explained to you the following principles :
