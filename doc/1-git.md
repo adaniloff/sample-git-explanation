@@ -23,7 +23,7 @@ So, the thing to remember is, your default __editor__ is called "origin". Yes. T
 ## What's next ? The __customer side__ !
 
 Now that we know a bit about the __editorial process__, let's take a look on the __customer side__.
-Which steps will have to make a man before being able to read his book ?
+Which steps will have to make a __customer__ before being able to read his book ?
 - get the book
 - read it
 
