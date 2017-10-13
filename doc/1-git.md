@@ -29,7 +29,7 @@ Keep in mind though, that our **git project** (our dictionnary) is opensource, a
 That means, a __contributor__ will be able to suggest some modifications to our dictionnary.
 
 In short :
-> A __reader__ of the dictionnary is someone who wants to use our **project**, without working on it    
+> A __reader__ is someone who wants to use our **project**, without working on it    
 > The __reading__ is the usage of our **project** through :    
 > -- the different __versions__ (**commits**) for __contributors__    
 > -- the different __publishings__ (**releases**) for __customers__    
