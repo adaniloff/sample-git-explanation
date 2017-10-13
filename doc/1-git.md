@@ -36,7 +36,7 @@ In short :
 
 ## The __editor__
 
-I'm not gonna talk about **remote** right now, as it might make it harder to you but try to think about it like below :
+I'm not gonna talk about **remotes** right now, as it might make it harder to you but try to think about it like below :
 > A **remote** is an __editor__. You migth, in some specific cases, want to __publish__ your work with many of them, but that's not what we're doing here.
 
 So, the thing to remember is, your default __editor__ is called "origin".
