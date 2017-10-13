@@ -18,7 +18,7 @@ I won't spend a lot of time talking about those concepts, as it is not the topic
 
 ## A quick summary 
 
-1. [Understand git](/doc/1-git.md)
+1. [Understanding git](/doc/1-git.md)
 2. [Most useful commands](/doc/2-commands.md)
 3. [Howto: use a git project](/doc/3-user-guide.md)
 4. [Howto: contribute to a git project](/doc/4-contributor-guide.md)
