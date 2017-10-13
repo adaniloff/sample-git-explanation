@@ -1,5 +1,5 @@
 
-# What is git ?
+# Understanding git
 
 Let's compare our **git** project's lifecycle to a book one (in our case, it will be a dictionnary).
 
