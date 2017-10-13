@@ -32,7 +32,7 @@ In short :
 > A __reader__ is someone who wants to use our **project**, without working on it    
 > The __reading__ is the usage of our **project** through :    
 > -- the different __versions__ (**commits**) for __contributors__    
-> -- the different __publishings__ (**releases**) for __customers__    
+> -- the different __publishings__ (**releases**) for __readers__    
 
 ## The __editor__
 
