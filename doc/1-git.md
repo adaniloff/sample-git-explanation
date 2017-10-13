@@ -19,12 +19,7 @@ Basically, I just explained to you the following principles :
 > A __chapter__ of the book, which can change through the time, is a **branch**    
 > A __version__ of the book, at a given time, is a **commit**    
 
-I'm not gonna talk about **remote** right now, as it might make it harder to you but try to think about it like below :
-> A **remote** is an __editor__. You migth, in some specific cases, want to __publish__ your work with many of them, but that's not what we're doing here.
-
-So, the thing to remember is, your default __editor__ is called "origin". Yes. That's his name. Deal with it.
-
-## The __reading__ !
+## The __reading__
 
 Which steps will have to make a __reader__ before being able to read his book ?
 - get the book
@@ -38,5 +33,12 @@ In short :
 > The __reading__ is the usage of our **project** through :    
 > -- the different __versions__ (**commits**) for __contributors__    
 > -- the different __publishings__ (**releases**) for __customers__    
+
+## The __editor__
+
+I'm not gonna talk about **remote** right now, as it might make it harder to you but try to think about it like below :
+> A **remote** is an __editor__. You migth, in some specific cases, want to __publish__ your work with many of them, but that's not what we're doing here.
+
+So, the thing to remember is, your default __editor__ is called "origin".
 
 [< Previous page](/README.md) | [Next page >](/doc/2-commands.md) 
