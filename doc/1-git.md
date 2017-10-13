@@ -15,21 +15,21 @@ Here are a few assertions to keep in mind :
 
 Basically, I just explained to you the following principles :
 > A __contributor__ is someone which wants to get involved in the project   
-> A __publishing__ of the book is a **project's release**    
-> A __chapter__ of the book, which can change through the time, is a **branch**    
-> A __version__ of the book, at a given time, is a **commit**    
+> A __publishing__ of the dictionnary is a **project's release**    
+> A __chapter__ of the dictionnary, which can change through the time, is a **branch**    
+> A __version__ of the dictionnary, at a given time, is a **commit**    
 
 ## The __reading__
 
-Which steps will have to make a __reader__ before being able to read his book ?
-- get the book
+Which steps will have to make a __reader__ before being able to read his dictionnary ?
+- get the dictionnary
 - read it
 
 Keep in mind though, that our **git project** (our dictionnary) is opensource, and free to people to get it and contribute to its development.
-That means, a __contributor__ will be able to suggest some modifications to our book.
+That means, a __contributor__ will be able to suggest some modifications to our dictionnary.
 
 In short :
-> A __reader__ of the book is someone who wants to use our **project**, without working on it    
+> A __reader__ of the dictionnary is someone who wants to use our **project**, without working on it    
 > The __reading__ is the usage of our **project** through :    
 > -- the different __versions__ (**commits**) for __contributors__    
 > -- the different __publishings__ (**releases**) for __customers__    
