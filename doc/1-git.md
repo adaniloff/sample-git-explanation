@@ -32,10 +32,10 @@ Here are a few assertions to keep in mind :
 ## A few ascertainments : 
 
 > A __reader__ is someone who wants to get our __dictionnary__ for usage only    
-> A __contributor__ is a person who wants to get involved in the __dictionnary__ development    
-> The __reading__ is the usage of our **git project**, and can be done through :    
-> -- the different __versions__ (**commits**) for __contributors__    
-> -- the different __publishings__ (**releases**) for __readers__
+> A __contributor__ is a person who wants to get involved into the __dictionnary__ development    
+> The usage of our __dictionnary__ can be done through :    
+> -- the different __versions__ (**commits**, mainly for __contributors__)    
+> -- the different __publishings__ (**releases**, mainly for __readers__)
 
 ## The __editor__
 
