@@ -13,7 +13,7 @@ Let's compare our **git project** lifecycle to a book one (in our case, it will 
 ## The __reading__
 
 Which steps will have to make a __reader__ before being able to read his dictionnary ?
-- get the dictionnary
+- get the __dictionnary__
 - read it
 
 Keep in mind though, that our __dictionnary__ is opensource, and free to people to get it and contribute to its development.
@@ -22,10 +22,10 @@ That means, a __contributor__ will be able to suggest some modifications to our 
 ## The __edition__
 
 Here are a few assertions to keep in mind :
-- 1 or more __contributors__ can contribute
-- to be quicker, the work is splitted among the __contributors__
-  > That means, each __contributor__ will work on 1 or more __chapters__
-- a __contributor__ will make __versions__ of the __chapters__ that he is in charge
+- Many __contributors__ can contribute
+- to be quicker, the work is splitted amongst the __contributors__
+  > Each __contributor__ will then work on one or many __chapters__
+- a __contributor__ will make some __versions__ of the __chapters__ that he's in charge
   > That will help them to save their work, for example
 - the end goal is to make a __publishing__ of the dictionnary, which basically is all the merged __chapters__ at their final __versions__   
 
