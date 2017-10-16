@@ -8,7 +8,12 @@
 - a __version__ is a --> **git commit**
 - a __publishing__ is a --> **project release**
 
-## git clone
+## Summary
+
+- [git clone](#git-clone)
+- [git fetch](#git-fetch)
+
+## <a name="git-clone"></a>git clone
 
 Cloning a project is basically downloading it.
 
@@ -25,5 +30,7 @@ Cloning a project is basically downloading it.
 # git clone https://github.com/adaniloff/sample-git-explanation.git my-directory # will get you the project on the default branch, in a directory named "my-directory"
 # git clone -b dev https://github.com/adaniloff/sample-git-explanation.git my-directory # will get you the project on the "dev" branch, in a directory named "my-directory"
 ```
+
+## <a name="git-fetch"></a>git fetch
 
 [< Previous page](/doc/1-git.md) | [Next page >](/doc/3-user-guide.md) 
