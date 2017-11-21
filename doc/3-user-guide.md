@@ -28,8 +28,11 @@
     > Why ? Just an example: on an external environment, you might not have access to your favorite tools...
     
 **That's it ! You can now read you book (which means, check the files in your project, use it as you want, etc) !**
-Oh but ... 2 years have passed now, and you've heard some words meanings have changed ! Also, there are new words in the English language... With `git`, if you already have a dictionnary, you do not have to buy a new one ! You can just __update__ it, then __upgrade__ it !
-    
+Oh but ... 2 years have passed now, and you've heard some words meanings have changed ! Also, there are new words in the English language... With `git`, if you already have a dictionnary, you do not have to buy a new one ! You can just __update (1)__ it, then __upgrade (2)__ it !  
+
+*(1) updating is the process which update your index. Basically, it's asking the library store if a new dictionnary has been published. That does'nt chznge yours.*  
+*(2) however, by upgrading your project, you change its content. It's like, trading your old dictionnary for a new one*  
+
 3) The command to do the __update__  is `git fetch`.
     > Do not forget that in our example, our __editor__ is called "origin" !
     
