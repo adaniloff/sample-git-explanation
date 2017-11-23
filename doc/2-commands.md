@@ -12,6 +12,7 @@
 
 - [git clone](#git-clone)
 - [git fetch](#git-fetch)
+- [git branch](#git-branch)
 
 ## <a name="git-clone"></a>git clone
 
@@ -47,4 +48,22 @@ This command updates your local repository with the new things that happened on 
 # git fetch --all # will fetch all remotes
 # git fetch -p my-remote # will fetch the "my-remote" remote ; the "-p" argument will remove any remote-tracking references that no longer exist on the remote 
 ```
+
+## <a name="git-fetch"></a>git branch
+
+With this one, you can list, create, copy, rename, delete branches.
+
+```
+# Simple usage : 
+# git branch [options][<branch>]
+#
+# Examples :
+# git branch --list # list local branches
+# git branch -a # list local and remote-tracking branches
+# git branch my-branch # create a new branch named "my-branch" from the your current position in the tree
+# git branch -d my-branch # delete the branch my-branch if its commits are already merged. Otherwise -D should be used (with caution)
+# git branch -m my-new-branch # rename the branch you're currently on as "my-new-branch"
+
+```
+
 [< Previous page](/doc/1-git.md) | [Next page >](/doc/3-user-guide.md) 
