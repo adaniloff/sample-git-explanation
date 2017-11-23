@@ -17,10 +17,10 @@
 
 Cloning a project is basically downloading it.
 
-> Getting the latest* __publishing__ of the __dictionnary__    
->     
-> (* Actually, that depends on the **git project**'s configuration)
-
+> Getting the latest* __publishing__ of the __dictionnary__      
+> (* Actually, that depends on the **git project**'s configuration and the parameters you pass to the command)    
+> From a mobile user point of view, it's like downloading a new app    
+   
 ```
 # Simple usage : 
 # git clone [-b <branch-name>] <repository> [<target-dir>]
@@ -33,4 +33,18 @@ Cloning a project is basically downloading it.
 
 ## <a name="git-fetch"></a>git fetch
 
+This command updates your local repository with the new things that happened on one/many remotes.
+
+> Asking the store to know if there is a new __publishing__ of the __dictionnary__    
+> From a mobile user point of view, it's like checking if your downloaded app has any new update, without downloading anything. You just want to know if you can update your app.
+
+```
+# Simple usage : 
+# git fetch [-p][--all] [<repository>]
+#
+# Examples :
+# git fetch # will fetch the default remote, aka "origin"
+# git fetch --all # will fetch all remotes
+# git fetch -p my-remote # will fetch the "my-remote" remote ; the "-p" argument will remove any remote-tracking references that no longer exist on the remote 
+```
 [< Previous page](/doc/1-git.md) | [Next page >](/doc/3-user-guide.md) 
